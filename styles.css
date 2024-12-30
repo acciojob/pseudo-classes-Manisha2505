@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+:root { background-color: rgb(135, 206, 235) }
+.Firstparadiv{
+	background-color: black;
+	color: white;
+}
+#secondpara{
+	color: black;
+}
+#thirdpara{
+	color: red;
+}
+.odditem{
+	background-color: white;
+	width: 50%;
+	padding: 10px;
+	font-size: 22px;
+}
+.evenitem{
+	background-color: gray;
+	width: 50%;
+	padding: 10px;
+}
+.thirditem{
+	background-color: pink;
+	width: 50%;
+	padding: 10px;
+}
