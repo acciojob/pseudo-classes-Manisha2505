@@ -1,13 +1,15 @@
 /*  your css code here. If applicable */
 :root { background-color: rgb(135, 206, 235) }
-.Firstparadiv{
+article p:first-child {
 	background-color: black;
 	color: white;
 }
-#secondpara{
+
+article p:nth-child(2) {
 	color: black;
 }
-#fourthpara{
+
+article p:last-child {
 	color: red;
 }
 .odditem{
